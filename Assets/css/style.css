@@ -1,0 +1,67 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+    border: 0 auto;
+    font-family: 'Roboto', initial;
+}
+
+nav{
+    background-color: #28A745;
+}
+
+.card-title{
+    font-size: 20;
+    color: #212529;
+}
+
+.card-text{
+    color: #707070;
+    font-size:15px;
+}
+
+.icon{
+    font-size:13px;
+}
+
+.fa-solid{
+    font-size:12px;
+}
+
+.list-group{
+    text-align: right;
+}
+.grey{
+    color:#707070;
+    font-size:16px;
+}
+
+.green{
+    color:#28A745;
+    font-weight: bold;
+    font-size:20px;
+}
+
+h2{
+    font-family: 'Roboto', bold;
+    color: #ffffff;
+    text-align: center;
+    font-size:21px;
+}
+
+.form-group{
+    color: #707070;
+}
+
+form{
+    background-color: #28A745;
+    background-size: 100%;
+}
+
+button{
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    color:#707070;
+}
